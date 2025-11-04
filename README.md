@@ -1,12 +1,17 @@
 # My Favorite Series
-**Title:** Stranger Things  
-**Genre:** Sci-Fi, Mystery  
-**Why I like it:**  
-- Intriguing plot twists  
-- Great character development  
-- Nostalgic 80s setting  
 
-## Favorite Characters
-1. Eleven
-2. Mike
-3. Dustin
+## Title: Stranger Things
+
+**Genre:** Science Fiction, Mystery
+
+### Why I Love It:
+- Suspenseful story
+- Strong character development
+- Nostalgic 80s vibes
+
+#### Favorite Character:
+- **Eleven:** Mysterious and powerful
+
+> "Friends don't lie." – Eleven
+
+For more info, visit [Stranger Things Wiki](https://strangerthings.fandom.com/wiki/Stranger_Things_Wiki)
